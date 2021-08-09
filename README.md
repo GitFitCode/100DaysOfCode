@@ -3,9 +3,8 @@
 ## Welcome to 100DaysOfCode Challenge within the GitFitCode Community, here we will embark on a journey to better ourselves through constant progress.
 #
 ## To get started:
-### 1. Create a folder with your name.
-### 2. Create a contract.txt within the folder and copy the contract in OriginalContract.txt, fill it out. :)
-### 3. Create a folder called days within your named folder.
+### 1. Create a contract.txt within the folder and copy the contract in OriginalContract.txt, fill it out. :)
+### 2. Create a folder called days.
 #### Here you will add a txt file for each day of the 100 days, explaining what was done that day and what you hope to accomplish the next day.
 
 
