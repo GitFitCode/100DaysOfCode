@@ -5,7 +5,7 @@
 ## To get started:
 ### 1. Pull the repo locally.
 ### 2. Branch from main using your name as branch title.
-### 3. Create a folder with you name.
+### 3. Create a folder with your name.
 ### 4. Create a contract.txt within the folder and copy the contract in OriginalContract.txt, fill it out. :)
 ### 5. Create a folder called days inside your named folder.
 #### Here you will add a txt file for each day of the 100 days, explaining what was done that day and what you hope to accomplish the next day.
