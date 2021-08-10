@@ -12,7 +12,7 @@
 ### 6. Create a pull request to merge with Main.
 ## After the initial format is created, continue on...
 ### 1. Pull and Branch from Main using your name as title.
-### 2. Update by adding a Day###.txt file to your day file.
+### 2. Update by adding a Day###.txt file to your day folder.
 ### 3. Create a pull request to merge with Main.
 
 ## Good luck and for any help, please let us know on Discord. 
