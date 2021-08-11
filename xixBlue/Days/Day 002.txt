@@ -1,0 +1,5 @@
+1. Played with orbit
+2. Finished Course Project - Components and Databinding section of angular Course
+3. Updated 100DaysOfCode 
+
+Tomorrow will continue with Angular Course and finish the next section
