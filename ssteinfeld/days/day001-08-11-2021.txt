@@ -1,0 +1,8 @@
+1. Updated Agreement in notion
+2. Added some minor wording tweaks
+3. Cloned the 100DaysOfCode locally and ran through Juan's awesome steps
+4. Gave GFC an update of my current progress on FreeCodeCamp Data Visualization Course
+5. Started reviewing the first course project 
+
+Up Next:
+1. start on the first course project

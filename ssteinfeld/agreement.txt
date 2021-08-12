@@ -1,0 +1,55 @@
+## 100 Days Strive-To-Uphold Agreement
+
+**Start Date:** August 12, 2021 
+
+**End Date:**  November 20, 2021 
+
+**Type of Goal**: Daily
+
+**Time Target** (per day or per week): 25mins - 50 mins
+
+**Possible subjects to cover**:
+
+- Learning/Courses:
+    - Data Visualization
+- Practice/Projects:
+    - Tomatoz
+- Jobs (applications, trainings):
+    - EggDrop Problem
+    - URL Shortener
+- Group Work (collabs, progress reports):
+    - Logging 100 days of code
+    - GFC Retrospective
+
+**Progress points for individual goals** (separate from weekly check-ins):
+
+- 25 days:
+    - 90% consistency
+- 50 days:
+    - 90% consistency
+- 75 days:
+    - 90% consistency
+- 100 days!:
+    - 90% consistency
+
+**Goal Adjustments** (how you can plan for changes):
+
+- **Easier:**
+    - I want to study/code 25 per day for personal/professional growth
+      - This can also include my coding challenges that are for my job prep
+    - Finish 2 projects from the Data Visualization Course Projects
+    - 1/2 of the week will be tomatoz development
+- **Medium:**
+    - I want to study 45min per day
+    - Finish FreeCodeCamp's Data Visualization Course Projects
+    - 1/2 of the week will be tomatoz development
+    - I would like to get 80% of development done for the tomatoz projects
+- **Optimistic:**
+    - I want to study 1 hour per day
+    - 1/2 of the week will be tomatoz development
+    - I want to finish the tomatoz application and deploy it
+
+**One way you want to help** (another participant or the GFC group at large):
+
+- I would like to write out our collective values
+- I would like to do daily standups where I am doing my 100 days at that point
