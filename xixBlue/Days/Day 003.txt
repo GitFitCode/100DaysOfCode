@@ -1,5 +1,6 @@
 1. Did half of the directive section of the Angular Udemy Course
 2. Played with Orbit
 3. Interacted in VO
+4. Attended Product Talk
 
 Tomorrow I will finish the Directive section of the course.
