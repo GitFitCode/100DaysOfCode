@@ -1,0 +1,5 @@
+1. Finished Directives Deep Dive section
+2. Finished Course Project - Directives
+3. Attended Retrospective
+
+Tomorrow will Start and finish Using Services & Dependency Injection
