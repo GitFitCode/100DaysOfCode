@@ -1,0 +1,4 @@
+1. Learned more about Directives 
+2. Worked on Course Project
+
+Tomorrow will Start and finish Using Services & Dependency Injection
