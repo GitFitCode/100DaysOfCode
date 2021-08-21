@@ -1,0 +1,18 @@
+Date: 8/21/2021
+Focus: C Programming Language (book)
+Time Spent: 7:25am - 7:58am
+Pages: all over, backtracking to better understand previous topics.
+
+Ok, I understand better now. They kept referring to getchar as a way to get input
+from a file (or something like that). But it's like input in python. Meant to
+recieve input from the keyboard. 
+
+So getchar waits for input and collects it when you press enter.
+Then, if you've saved that input to a variable you can output it with putchar.
+
+I'm realizing that measuring my progress by number of pages covered probably
+isn't the best metric for this 100 days agreement. I've gone backwards on page
+count today to better understand the material and now, to cover the number of
+pages I'd planned on would take more time than I have.
+
+So, time metric from here on out! Aiming for 30 minutes per day.
