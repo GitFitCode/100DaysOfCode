@@ -1,0 +1,12 @@
+Date: 8/19/2021
+Focus: C Programming Language (book)
+Pages Completed: 27 - 31 ish, kind of forgot...
+
+Learned about file copying, which unfortunately still doesn't make sense since
+because the book explains how to write the program but not what is expected as
+input.
+
+Fortunately that doesn't matter too much as I can discern these details later
+and am mostly worried about memorizing basic syntax at this point. For and while
+loops are second nature already since they're structured similarly to JS but
+I'm still slightly confused about what happens when using: `#define` for variables.
