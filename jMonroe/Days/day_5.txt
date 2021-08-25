@@ -1,0 +1,19 @@
+Date: 8/23/2021
+Focus: C Programming Language (book)
+Starting at: section 1.6 Arrays
+Time 8:53pm - 9:14pm
+
+Ok, very interesting and a little confusing. According to the book, 'chars are
+just small integers'. 
+
+They use a comparison: `if (c >= '0' && c <= '9')`
+where c is type char. That just seems wrong. But it works.
+
+So they say the above comparison determines if the character in c is a digit.
+This is going to take some getting used to.
+
+Ok, I read a bit further and it makes slightly more sense.
+'0' is a char, and a char is just a small integer, meaning that char can be used
+in arithmetic operations exactly as though it was an integer.
+
+Excellent. I guess. Still looks like a string to me...
