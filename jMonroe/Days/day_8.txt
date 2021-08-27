@@ -1,0 +1,28 @@
+Date: 8/26/2021
+Focus: C Programming Language (book)
+Starting at: page 42, section 1.9 exercises
+Time: 7:49pm - 8:25pm
+
+Whew, still things I'm so confused about when approaching the exercises.
+Exercise 1-17 says to: Write a program to print all input lines longer than
+80 characters.
+
+Ok, my first instict would be to create an array of strings where any input string
+longer than 80 characters would be added to the array and then print each member
+of that array. Maybe that's possible in C but I'm not sure how.
+
+What I've realized is that it doesn't matter if the 80 character input lines are
+stored as separate variables. I'll keep adding each character to one long character
+array separating each line with a \n and then print the entire array.:q
+
+Alright! Progress! That worked. I got the program working that prints all lines
+which are longer than a specified number of characters. I was right to put them
+all in a single array and separate them via a delimiter (in this case \n). 
+
+I got hung up for a moment trying to determine how to add them to the existing
+array without overwriting the chars already in that array but an integer to track
+the index of the end of the last line solved that.
+
+Might have to return to other earlier exercises to see if perhaps I couldn't solve
+them simply because I wasn't thinking about the problem in the right way.
+
