@@ -1,0 +1,16 @@
+Date: 8/29/2021
+Focus: C Programming Language (book)
+Starting at: page 50 (the dullest shit about fucking data types)
+Time: 4:22pm - 4:59pm
+
+Ok, understood this intuitively, but now it's spelled out.
+'x' is an integer used to produce the numeric value of the letter x.
+"x" is an array of characters containing only x.
+
+I'm totally baffled by enumeration values. They seem to be iterators. Something you can iterate over. Where if the iterations are undefined it will start at 0 & continue up numerically. 
+
+Or you can define an enum whith your own values to specify what values it will iterate over???
+
+Well hopefully that makes more sense in the future because without examples used within programs I'm lost.
+
+Onto section 2.4 and will do that tm.
