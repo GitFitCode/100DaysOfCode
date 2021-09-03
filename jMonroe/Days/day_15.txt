@@ -1,0 +1,11 @@
+Date: 9/2/2021
+Focus: Custom AHK script and some python to help
+Time: 8:45pm - 9:30pm
+
+Ok, got totally distracted today. Been interested in chording keyboards and
+starting writing an auto hot key script to try that out with a regular keyboard.
+Wound up writing a little python as well because I'm an idiot and was
+calculating the number of key combinations as though i was using key
+permutations. Silly.
+
+Anyways. Was all pointless. But it was some coding.
