@@ -1,0 +1,17 @@
+Date: 9/3/2021
+Focus: C Programming Language (book)
+Starting at: pg 58 (section 2.8 -- increment & decrement operators)
+Time: 10:19pm - 10:50pm
+
+Well, moved through section 2.8 quickly and into section 2.9, bitwise operators.
+I've gone over these so many times in python and they still aren't intuitive
+for me. Perhaps someday I'll be forced to work extensively with binary values.
+
+Ok, I like this quick example:
+if x is 1 and y is 2 then x & y is zero while x && y is one.
+since & is a bitwise and. so 0001 bitwise and 0010 result in 0000.
+but 1 and 2 result in one (true).
+
+Good news. Messed around with bitwise operators in python a bit more and they
+I do at least understand how they work at a basic level. Couldn't anticipate
+how they'll affect larger numbers though.
