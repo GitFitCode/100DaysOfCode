@@ -1,0 +1,17 @@
+Date: 9/4/2021
+Focus: Python hot keys for chorded keyboard.
+Time: 12:00pm - 2:00pm
+
+Yeah, got distracted again today. Still trying to determine whether a chorded
+keyboard could be the functional input device I'm envisioning for portability
+and ease of use.
+
+So, I started a project today & began learning about pynput for capturing
+keyboard input and sending keystrokes based on that. Unfortunately the final
+project almost certainly wouldn't be written in python. But if I can put
+together a script that will allow me to start performing tests without having
+to purchase any components or fabricate any parts then I think it will be
+time well spent.
+
+Still planning to continue working through the c programming book but perhaps
+this could become the project to work on after completing the book.
