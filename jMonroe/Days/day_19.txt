@@ -1,0 +1,18 @@
+Date: 9/6/2021
+Focus: C Programming Language (book)
+Starting at: section 2.9 | bitwise operators | pg 58
+Time: 11:14am - 11:42am
+
+Ok, kinda just blasted through bitwise operators. Boring shit.
+Section 2.10 -- Assignment Operators & Expressions
++= is an example of assignment operators
+
+could be -= *= /= %= etc
+
+2.11 - Conditional Expressions
+Oh boy! the ternary operator!!
+written:
+expr1 ? expr2 : expr3
+
+so, if expr1 evaluates to true the expr2 is evaluated.
+else, expr3 is evaluated.
