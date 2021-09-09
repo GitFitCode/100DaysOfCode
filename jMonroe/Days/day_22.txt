@@ -1,0 +1,14 @@
+Date: 9/9/2021
+Focus: Keyboard hotkey thing
+Time: 9:45am - 10:45am
+
+Ok, I still want to continue working through the c book but boy do I spend more
+time on this when I'm doing something that actually interests me.
+
+I think I actually made some good progress on the keyboard hotkey overlay thing
+today. I got something working in cpp that seems to be quite responsive but for
+now only reads if one key is pressed and then replaces that key with something
+else.
+
+I'll need to start keeping track of the state of keys pressed and define some
+two and three key hotkeys before knowing if this will actually work.
