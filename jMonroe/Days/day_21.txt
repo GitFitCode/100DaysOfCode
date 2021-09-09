@@ -1,7 +1,7 @@
 Date: 9/8/2021
 Focus: C Programming Language (book)
 Starting at: Section 3.4 -- switch statement (pg 70)
-Time: 9:38pm - 
+Time: 9:38pm - 10:06pm
 
 Ok, mostly review. Switch cases, while & for loops. Interesting to note that each case in a switch statement will be evaluated unless the loop is broken
 out of intentionally.
