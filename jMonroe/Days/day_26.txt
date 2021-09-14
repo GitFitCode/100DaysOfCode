@@ -1,0 +1,10 @@
+Date: 9/13/2021
+Focus: C Programming language (book)
+Starting at: Chapter 4 (pg 79)
+Time: 10:04pm - 10:28pm
+
+Well, no exucses. I'm just stupid. Totally forgot to code yesterday. Almost did today as well.
+
+Ok, starting chapter 4 turned out to actually be kind of interesting. Will
+have to revisit the program I wrote to fully understand what they have me
+doing. But hooray. A little more progress made.
