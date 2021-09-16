@@ -1,0 +1,13 @@
+Date: 9/16/2021
+Focus: Retro Game Coders tutorial
+Time: 11:17am
+
+Ok, that tutorial turned out to be something of a waste of time. Didn't realize
+it was designed primarily to be run on retro systems... Doesn't do me much good
+without a commodore or amiga. Whatever, back to my book for a bit.
+
+Since I'm on my windows computer this morning I decided to go over the same
+function I wrote yesterday on my linux machine. It was for the best in this case
+because in rewriting it I better understood it and left lots of comments to
+help me understand it in the moment & hopefully make it more intelligible upon
+returning to it.
