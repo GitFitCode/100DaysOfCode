@@ -1,6 +1,6 @@
 Date: 9/16/2021
 Focus: Retro Game Coders tutorial
-Time: 11:17am
+Time: 11:17am - 12:00pm
 
 Ok, that tutorial turned out to be something of a waste of time. Didn't realize
 it was designed primarily to be run on retro systems... Doesn't do me much good
