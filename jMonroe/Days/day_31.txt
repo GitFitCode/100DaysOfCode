@@ -1,0 +1,10 @@
+Date: 9/18/2021
+Focus: C Programming Language (book)
+Time: 11:37am - 12:07am
+Starting at: pg 85 (fixing bugs in exercise 4-2 before continuing to section 4.3)
+
+Ok, got that exercise working so it can conver string numbers with exponents
+to doubles. Hooray.
+
+Ok, they're getting into a proper program. A calculator program.
+Going to get into writing that tomorrow I think.

@@ -1,6 +1,6 @@
 Date: 9/17/2021
 Focus: C programming language (book)
-Time: 2:45pm
+Time: 2:45pm - 3:15pm
 Starting at: pg 84 (Section 4.3)
 
 Ok, more progress, albeit slow progress. I modified atof so that it will
