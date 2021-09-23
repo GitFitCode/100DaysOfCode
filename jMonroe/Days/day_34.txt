@@ -1,8 +1,15 @@
 Date: 9/21/2021
 Focus: C Programming Language (book)
-Time: 7:26pm - 
-Starting at: 
+Time: 7:26pm - 8:05pm
+Starting at: pg 90
 
 First day of fall term yesterday and completely forgot to do my 100 days of code.
 Also, now realizing that I was partway through a program that is saved on my linux
 computer. So, I'll be right back on that machine.
+
+
+Ok, the calculator program matches what they've written in the book but is
+not functional. I did start troubleshooting but have gotten nowhere. We'll
+see how much patience I have for trying to make an essentially useless
+program work.
+Back at it tm.
