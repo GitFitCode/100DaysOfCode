@@ -1,0 +1,11 @@
+Date: 9/25/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 10:15pm - 
+Starting at: pg 6
+
+Ok, another short learning day. This one got put off till the last possible
+minute again. But hey. I'm glad to get started on this new book. It's always
+a little frustrating starting from scratch but I'd rather do that than
+continue pushing forward with a resource that isn't working for me.
+
+Now I'm off to hopefully install a new os on this computer.
