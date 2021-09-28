@@ -1,0 +1,22 @@
+Date: 9/27/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 6:57pm
+Starting at: pg 31 (idk how these pages work. It seems like the # is different for where the ebook is compared to the real book but they show both??)
+
+Chapter 4
+Ok, this is kind of interesting.
+They're describing, damn I can't think of what they're called in python
+either.
+
+So, the characters you use to inject variables into a print statement.
+They're calling those conversion characters. Interesting name.
+So like:
+- %d -- integer
+- %f -- floating-point
+  - same thing as python for string formatting. %.3f prints floating point number with 3 decimal places.
+- %c -- character
+- %s -- string
+
+double interesting because I thought it was %i for integer.
+
+Well that's the end of the chapter. Stuff I already know, but again, doesn't hurt to review the basics.
