@@ -1,0 +1,12 @@
+Date: 9/28/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 9:12pm - 9:41pm
+Starting at: pg 41
+
+Chapter 5
+Oh interesting, variable names are limited to 31 characters.
+
+Well, this book is kind of too easy for now. I had hoped they'd add to my
+knowledge of the basics but it's only tidbits here and there. Don't think
+I'll necessarily skip forward entirely but may start skimming faster through
+these early chapters.
