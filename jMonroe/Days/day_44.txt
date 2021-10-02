@@ -1,0 +1,20 @@
+Date: 10/1/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 10:10pm - 10:56pm
+Starting at: pg 66
+
+Good to know. Don't use escape sequences with scanf like \n, \a, \t, they
+confuse scanf. In particular scanf stops recording input when user presses
+enter so don't use \n.
+
+Also, though not required it's good practice to put a space before the data
+type to be captured. so `scanf(" %d", &integervariable);
+
+Also, very weird, use the ampersand if you're capturing integers,
+characters, and whatnot but not when capturing strings.
+
+Ok, the semi technical reason, you don't put the ampersand in front of
+pointer variables. An array is a pointer variable.
+
+Another issue with reading strings. scanf stops reading after the first
+space. 
