@@ -1,0 +1,6 @@
+Date: 10/2/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 1:01pm - 1:29pm
+Starting at: pg 70
+
+Ok, mostly review again talking about the order of operators. Familiar stuff,but good to know.
