@@ -1,0 +1,8 @@
+Date: 10/3/2021
+Focus: C Programming Abs Beginning Guide (book)
+Time: 9:20pm - 9:41pm
+Starting at: pg 79
+
+Ok, pretty short session this evening. Wrote a program demonstrating order
+of operations and am wrapping up in order to go brush my teeth, shower, and
+get to bed at a reasonable time. We'll see how that goes.
