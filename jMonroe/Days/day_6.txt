@@ -1,0 +1,13 @@
+Date: 8/24/2021
+Focus: C Programming language (book)
+Starting at: page 35, section 1.6
+Time: 9:10pm - 9:35pm
+
+Moved on to section 1.7, functions. There are exercises at the end of each section
+but thus far they seem to be mostly out of my grasp. Perhaps I'm simply not putting
+enough effort into writing the suggested programs but from my perspective it seems
+I've not yet been given the tools to do so.
+
+For now I think I'll continue moving forward and hopefully be able to return and
+complete previous exercises with ease.
+

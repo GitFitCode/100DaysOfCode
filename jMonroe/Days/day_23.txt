@@ -1,0 +1,7 @@
+Date: 9/10/2021
+Focus: C Programming Language (book)
+Starting at: pg 73, section 3.5 -- loops
+Time: 4:24pm - 4:49pm
+
+Ok, got some interesting practice in converting strings to ints and sorting
+arrays of ints into ascending order.

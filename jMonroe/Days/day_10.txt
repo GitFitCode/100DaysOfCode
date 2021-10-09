@@ -1,0 +1,18 @@
+Date: 8/28/2021
+Focus: C Programming Lanuage (book)
+Starting at: page 46 (section 1-10 exercises)
+Time: 8:51pm - 9:20pm (29min)
+
+Ok, not sure what is up with me this week. So worn out. Regardless, I had planned
+to start with the exercises at the end of the last chapter but just don't have
+that much critical thinking in me at the moment. Stupid, I know. Onto chapter 2.
+
+First character of a variable name must be a letter.
+C is case sensitive.
+
+Basic data types:
+char -- single byte can hold one character.
+int -- an integer. Size varies based on machine.
+    As well, can be short or long. Often 16 bits or 32 bits.
+float -- single precision float.
+double -- double precision floating point.

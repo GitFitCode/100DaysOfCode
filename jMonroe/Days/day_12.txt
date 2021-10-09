@@ -1,0 +1,30 @@
+Date: 8/30/2021
+Focus: C Programming Lanuage (book)
+Starting at: page 52 (section 2.4 declarations)
+Time: 8:30pm - 9:14pm
+
+Ok, so variable declaration specifies a type of a variable. 
+Variables can be initialized in the declaration.
+
+External & static variables are initialized to zero by default.
+Automatic variables have undefined (garbage) values by default.
+
+Adding const to the front of a variable declaration means it cannot be changed.
+Adding const to an array argument indicates that a function does not change the
+array.
+
+
+# Section 2.5 -- Arithmetic Operators
+integer division truncates any fractional part.
+modulus is still %
+
+
+# Section 2.6 -- Relational & Logical Operators
+relational operators: > >= < <= have the same precedence
+equality operators: == != are just below relational operators in precedence.
+Logical operators: || && are evaluated left to right & evaluation stops once
+a truth or falsehood result is known.
+
+# Section 2.7 -- Type Conversions
+basically, type conversions are limited. Converting from a more limited type
+to more open type is fine (int to float). But vice versa not so much.

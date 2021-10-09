@@ -1,0 +1,17 @@
+Date: 8/22/2021
+Focus: C Programming language (book)
+Time: 4:14pm - 4:35pm
+
+
+Ok, these programs that accept input are still confusing me somewhat but I am
+beginning to understand them better. I had been using ctrl-c to exit the programs
+which had previously worked alright since nothing was happening after the while
+loop that collected input and spit it back out. The latest program did things after
+the while loop though.
+
+So, since they keep using EOF to end the while loop I had to figure out how to
+input that.
+On windows that seems to be ctrl+z. So now my program counts lines, words, and
+characters just fine.
+
+Very short learning time today.

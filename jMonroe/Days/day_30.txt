@@ -1,0 +1,10 @@
+Date: 9/17/2021
+Focus: C programming language (book)
+Time: 2:45pm - 3:15pm
+Starting at: pg 84 (Section 4.3)
+
+Ok, more progress, albeit slow progress. I modified atof so that it will
+convert a string even if there's an exponent in that string.
+
+It's buggy though. Works with positive exponents and not negative ones.
+I'll figure that out tomorrow.

@@ -1,0 +1,6 @@
+Date: 9/5/2021
+Focus: Silly python hotkeys for chorded keyboard
+Time: 1:42pm - 2:31pm
+
+Wow, just getting some basic hot keys working is proving to be far harder
+than I expected. There must be something I'm missing.

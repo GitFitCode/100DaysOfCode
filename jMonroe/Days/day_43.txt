@@ -1,0 +1,14 @@
+Date: 9/30/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 7:36pm - 7:56pm
+Starting at: pg 59
+
+Ok, this is actually good to know.
+When you do an #include if you wrap the filename in quotes rather than <>
+C will first search the disk directory where your program is stored for that
+file. Then it will search the built-in #include directory
+
+
+One thing this book had mentioned before that I kind of glossed over.
+include string.h and then you can use the strcpy function to set a string
+variable to a new value. Super handy.

@@ -1,0 +1,8 @@
+Date: 9/14/2021
+Focus: C Programming Language (book)
+Starting at: pg 82
+Time: 4:45pm - 5:05pm
+
+Read a little more about compiling multiple files into a single executable
+and wrote a program for exercise 4-2 that finds the rightmost r in a string
+and returns the index of it.

@@ -1,0 +1,14 @@
+Date: 8/31/2021
+Focus: C Programming Language (book)
+Starting at: page 55
+Time: 6:20pm - 6:47pm
+
+Whew, type conversions might do me in. Hopefully this makes intuitive sense one day.
+Ok, it makes sense. The way they word some things though seems designed to be
+confusing. 
+Nope, nope, nope, wtf are they talking about. 
+
+Moving forward despite bafflement with the expectation that the information described
+will become more understandable through examples within this work or through
+the study of other resources.
+

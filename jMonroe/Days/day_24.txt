@@ -1,0 +1,14 @@
+Date: 9/11/2021
+Focus: C Programming Language (book)
+Starting at: pg 74 (Control Flow)
+Time: 2:30pm - 
+
+Ok, interesting, you can use commas to separate multiple expressions in say, a for loop.
+So you can process two indices in parallel.
+Something like:
+`for (i = 0, j = strlen(s)-1; i < j; i++, j--)`
+
+
+Can't say for sure if I'm actually learning any of this stuff but I am
+reading it.
+On to chapter 4 now. Oh boy.

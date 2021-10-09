@@ -1,0 +1,21 @@
+Date: 8/25/2021
+Focus: C Programming Language (book)
+Starting at: page 38, section 1.7
+Time: 8:16pm - 8:47pm
+
+Quickly moved on to section 1.8, Arguments.
+So, my understanding. When defining a function you specify the parameters to be
+included as arguments when that function is called. Arguments provided when a function
+is called aren't directly modified. Temporary variables are used and modified within
+the function without modifying the original.
+
+To modify the original variable from within a function you would need to pass in
+a pointer to that variable as an argument.
+
+Except with arrays. When the name of an array is used as an argument the value
+passed to the function is the address of the beginning of the array.
+No copying of array elements occurs.
+
+
+On to section 1.9 -- character arrays.
+Leaving off at the end of 1.9 before attempting the exercises.

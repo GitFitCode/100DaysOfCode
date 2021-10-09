@@ -1,0 +1,20 @@
+Date: 9/24/2021
+Focus: NCL Log analysis
+Time: 2:25pm - 3:29pm
+
+Ok, I forgot to record anything yesterday. I'm going to count the work I'm
+doing for the National Cyber League competition towards my 100 days of code.
+It's technically for my class but I'm doing more than is required for the
+class and I could use a break from that c programming book. I might replace
+that book in fact. It's bugging the hell out of me.
+
+Anyways, I forgot to create a day 36 yesterday but am going to count it as
+completed due to the time I spent bash scripting and log analyzing. Now back
+to a bit more log analyzing today and maybe something else depending on how
+long the last two practice challenges take.
+
+Ok, completed the last two challenges and found a new book for learning c.
+Hopefully it's better than the first one. I still can't figure out why that one
+was recommended anywhere. They seem to leave out some very important stuff as
+you work through it that makes many of the exercises at the end of each section
+impossible to complete.

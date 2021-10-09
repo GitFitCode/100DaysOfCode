@@ -1,0 +1,35 @@
+Date: 8/27/2021
+Focus: C Programming Language (book)
+Starting at: page 42, section 1.9 exercises, exercise 1-19
+Time: 9:00am - 9:53am
+
+Wow, I'm finally starting to feel like I'm making a little bit of progress with
+this. I've completed a couple of the section 1.9 exercises successfully. Moving
+on to section 1.10 (pg 43).
+
+Ok, variables created within the scope of a function are known as automatic variables.
+Since they're created while the function is in use & disposed of when its not.
+
+Whew, defining global variables is of course a pain in the ass though.
+so they're initially defined outside of any function so that memory is set aside
+for them. Then they must be declared inside the function using the `extern` keyword
+followed by their data type & name.
+Wellll nope. Should've finished that paragraph first.
+It can be defined in the function with an explicit extern statement or implicitly
+from the context.
+
+I see why python was created.
+
+Ok, common practice is to define all global (external) variables at the start of
+the program and omit the redundant `extern` declarations. They've returned to sanity.
+Caveat though, if a variable is defined in a different file then `extern` must be
+specified when it is declared within the function of the local file.
+
+Oh interesting, so a header file is typically going to be a collection of extern
+declarations of variables and functions which are defined in other files and used
+in a single program.
+
+`#include` imports these header files and .h is the typical suffix.
+So much more makes sense now.
+
+

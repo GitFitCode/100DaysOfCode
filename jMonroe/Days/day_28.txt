@@ -1,0 +1,9 @@
+Date: 9/15/2021
+Focus: C Programming Language (book)
+Starting at: pg 83
+Time: 8:23pm - 8:54pm
+
+Ok, fairly straightforward stuff still. Sort of anyways. Converting strings
+to doubls and whatnot. A long ways to go but I am looking forward to being
+done with this book. Hopefully it gets more interesting by the end. We'll 
+see.

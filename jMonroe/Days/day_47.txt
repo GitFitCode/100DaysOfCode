@@ -1,0 +1,20 @@
+Date: 10/4/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 4:35pm - 5:06pm
+Starting at: pg 83 
+
+I think perhaps conditional operators will always confuse the hel out of me.
+Now that I type that out aren't <> and what not conditional operators?
+Ah, no, they're relational operators and || && are logical operators, ok.
+
+So back to conditional operators, which always throw me off.
+relation ? true_statement : false_statement;
+easy.
+
+if relation ? do true : else do false; // that makes more sense to me.
+
+Oh cool conditional operators can go in printf()s:
+printf("I ate %d pear%s\n", num_pears, (num_pears > 1) ? ("s.") : ("."));
+I'm not quite sure why each expression for the conditional operator is in
+parentheses there. But that would make the sentence plural or not if you ate
+more than one pear.

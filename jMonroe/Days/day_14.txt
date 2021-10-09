@@ -1,0 +1,24 @@
+Date: 9/1/2021
+Focus: C Programming Language (book)
+Starting at: page 57
+Time: 5:15pm - 5:46pm
+
+Ok, rereading some of these type conversions and they're unfortunately not
+making any more sense yet. Moving forward and hoping they'll make more
+inuitive sense as I do more c programming.
+
+Ok, so to cast a variable to a different type we use the format:
+`(type-name) expression`
+so:
+sqrt((double) n) <-- would convert n the value of n to a double before passing
+it to sqrt. Important to note is that n itself isn't altered, rather the cast
+operator produces the value of n in the proper type.
+
+It's settled type conversions are going to baffle me for a while. Tried the exercise
+at the end of the section but am baffled. They ask you to convert a hexadecimal
+string to an integer but haven't informed...
+I kind of figured it out. Realized a possible solution mid sentence there.
+
+On to section 2.8! Fuck those type conversions.
+# Section 2.8 -- Increment & Decrement Operators.
+Well, actually, it's been 30 minutes going to call it here today.

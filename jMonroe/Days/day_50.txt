@@ -1,0 +1,22 @@
+Date: 10/7/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 2:01pm - 2:31pm
+Starting at: pg 134 
+
+Ok, this is handy. I always forget about continue. Or maybe python doesn't
+have continue and I only think it does, can't remember.
+But anyways, if you're in a loop and have some code that executed and you
+just want to keep going without executing the rest of the code before
+starting again use continue.
+
+I think I've explained it poorly, but I understand what it's supposed to do.
+Continue will go to the start of the loop at the next iteration. It doesn't 
+start the loop over but continues from the top of the loop code block
+without executing the rest of the code in that block. That's better.
+
+
+Ok, going over switch/case statement again is always a good thing. It always
+throws me off. It's so simple and it seems like there should be more to it.
+I think I just need to actually use it somehwere. I've typed out their
+example programs many times and that is fine. But I don't think the syntax
+will stick till I use it in my own project.

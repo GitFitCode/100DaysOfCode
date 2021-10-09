@@ -1,0 +1,9 @@
+Date: 9/19/2021
+Focus: C Programming Language (book)
+Time: 7:55pm - 8:28pm
+Starting At: pg 87
+
+Ending at page 90.
+This is a more complex program. Still don't understand every part of it but 
+am getting closer to something functional. Looks like two more short
+functions to write tomorrow & then the calculator should be underway.

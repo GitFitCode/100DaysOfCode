@@ -1,0 +1,17 @@
+Date: 9/22/2021
+Focus: C Programming Language (book)
+Time: 10:19pm - 10:40pm
+Starting at: pg 88
+
+Oh, yeah. The fucking calculator still doesn't work. I was wondering why my
+starting page was two less than yesterday's. Debugging. Not sure I'm going to
+put any more time into that. Let's see if it magically works.
+
+Nope it doesn't work. Fuck it. If it was a program I cared about I'd put in
+the time.
+
+
+Ok, well. The next section of the book is essentially breaking that program
+out into it's own files. I'll do that but can't see how it will fix the
+broken program. Perhaps I'll begin to understand it well enough along the way
+to actually troubleshoot it.
