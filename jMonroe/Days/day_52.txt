@@ -1,0 +1,8 @@
+Date: 10/9/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 7:13pm - 7:51pm
+Starting at: pg152
+
+Ok, found this interesting. The default case in a switch statement doesn't have
+to be the last case statement. So still put a break in the default statement
+if you don't want it to continue dropping through to additional cases.
