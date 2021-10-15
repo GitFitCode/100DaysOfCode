@@ -1,0 +1,35 @@
+Date: 10/13/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 5:55pm - 6:16pm
+Starting At: pg 178
+
+Ok, interesting. So I learned that gets was deprecated so fgets is the
+replacement. Now I learn that scanf can't accept strings with spaces while
+gets can. WTF C. Why are there so many different ways to do basically the
+same thing. These are all functions designed to get input from a use and yet
+they all have different shortcomings and none quite function without some
+additional work to capture the data you need.
+
+I may be starting to hate this programming language. I wrote some python
+earlier today and was flipping out by how easy it is to declare variables
+and functions as well as how there's always a built in function to
+manipulate data just the way you need. Get your shit together C.f
+
+
+
+Ok, some momentary redemption. At least the math builtins are there.
+floor() and ceil() do exactly what you'd expect.
+
+A little weird, but functional:
+fabs() returns the floating point absolute value.
+And there's pow() and sqrt().
+And then there's a bunch of standard trigonometric functions along the lines
+of sqrt & pow. cos, sin, tan, etc.
+
+
+
+Finally something that may be beneficial. Learning about rand.
+first of, rand() requires stdlib.h
+
+You see rand with srand which must be passed a different number each time
+you run the program. This means you must also include time.h to seed it.

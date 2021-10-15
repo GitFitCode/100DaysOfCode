@@ -1,0 +1,22 @@
+Date: 10/11/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 5:54pm - 6:26pm
+Starting At: pg 168
+
+Ok, they only just introduced it but getch sounds way better than getchar.
+Fucking fuck, so getchar has its issues where you have to deal with the
+leftover newline character when a user enters input and with getch the user
+can't backspace to correct their input. That's nonsense.
+
+Here's a good summary:
+use getchar and putchar to input and output single characters.
+Use getch to get unbuffered single characters as soon as the user types
+them.
+
+
+
+Chapter 19
+Two handy functions: isalpha (checks if a value is an alphabetic character)
+isdigit (checks if value is numeric)
+
+and as well: isupper and islower (checks uppercase or lowercase)
