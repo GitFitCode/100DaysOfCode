@@ -1,0 +1,11 @@
+Date: 10/14/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 7:42pm - 8:16pm
+Starting at: pg 188
+
+Ok, nothing fancy, but learned more about rand today.
+Will have to come back to finish up the program.
+They have it written so the loop is only performed once.
+I was changing it to loop so that you could play endlessly but realized at the
+end that it will require restructuring the program more than I realized so I'm
+putting that off till tomorrow.
