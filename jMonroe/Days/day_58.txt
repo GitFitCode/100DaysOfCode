@@ -1,0 +1,10 @@
+Date: 10/15/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 7:45pm - 8:17pm
+Starting at: pg 193
+
+Ok, learned about arrays more in depth. There are things I really don't like
+about this programming language.
+
+avg = ((float)total_points/10);   <-- WTF is that. That's really the syntax they
+went with for typecasting? I'm sure I'll get used to it but that's stupid.
