@@ -1,0 +1,8 @@
+Date: 10/16/2021
+Focus: C Programmin Abs Beginner Guide (book)
+Time: 9:01am - 9:44am
+Starting at: pg 199
+
+Ok, more about arrays but nothing really new. I'm typing out some of the
+example programs anyway just to thoroughly ingrain the c syntax in my brain.
+
