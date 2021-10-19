@@ -1,6 +1,6 @@
 Date: 10/17/2021
 Focus: C Proramming Abs Beginner Guide (book)
-Time: 2:21pm -
+Time: 2:21pm - 2:48pm
 Starting at: pg 210
 
 Ok, some actually good stuff today. More content on arrays but they put

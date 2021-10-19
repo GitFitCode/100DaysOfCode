@@ -1,0 +1,15 @@
+Date: 10/18/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 5:41pm - 6:06pm
+Starting at: pg 215
+
+Some actual good stuff today. Similar to yesterday but the book built on it.
+The program today was one which takes customer ID's and their corresponding
+bank balance, sorts them, and then lets you search for a given customer
+via their id.
+
+The improvement over a similar previous program is the fact that the data is
+sorted before letting you search it. This may improve search times with a
+large dataset.
+
+Good stuff.
