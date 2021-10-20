@@ -1,0 +1,14 @@
+Date: 10/20/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 4:24pm - 4:53pm
+Starting at: pg 225
+
+Oh ok. I didn't realize you could use pointers like this:
+*p_age = 25;
+To set the value of the variable where p_age points to. That makes them seem
+more useful already but I still can't imagine any real use cases for them.
+
+Ok, the good news is I understand at a basic level how pointers work.
+The other good news is that the writers have assured me they will unveil
+the true potential of pointers in a future chapter when also covering
+functions. So yay.

@@ -1,6 +1,6 @@
 Date: 10/19/2021
 Focus: C Programming Abs Beginner Guide (book)
-Time: 4:40pm -
+Time: 4:40pm - 5:08pm
 Starting at: pg 219
 
 Ok, started learning about pointers today. I'm still not quite sure why
