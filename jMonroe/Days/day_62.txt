@@ -1,0 +1,13 @@
+Date: 10/19/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 4:40pm -
+Starting at: pg 219
+
+Ok, started learning about pointers today. I'm still not quite sure why
+they're necessary. I mean can't you just reference the variable by name?
+Why do you need another separate named variable that only stores another
+variable's location in memory?
+
+We'll see. Hopefully they have some good examples of the use cases going
+forward.
+Time to go celebrate my dad's birthday though, that can wait till tm.
