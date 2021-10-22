@@ -1,0 +1,13 @@
+Date: 10/22/2021
+Focus: C Programming Abs Beginner Guide (book)
+time: 4:28pm - 4:46pm
+Starting at: pg 239
+
+Ok, the troubleshooting is complete. Mostly. I get weird warnings all the time when compiling my programs that are for c++ even though my files end in .c.
+I'm not sure why that is but it's not ideal. It makes it harder to parse the real issues. Regardless. My pointer_demo_2 is working. I can rate movies and
+stuff.
+
+Ok, next chapter, time to learn about the heap, where my corpse will forever
+burn in the hellscape of unused c libraries.
+
+Alright, the only way to access the heap is via pointer variables. WTF.
