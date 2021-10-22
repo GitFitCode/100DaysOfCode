@@ -1,0 +1,12 @@
+Date: 10/21/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 5:41pm - 6:10pm
+Starting at: pg 228
+
+Ok, c is stupid. There are too many ways to do the same thing and none of
+them ever seem to work quite how you want them to.
+Pointers are getting weird with the fact that they can point to an array and
+assign things to that array. All despite the fact that you can't actually
+modify an array directly?!? Maybe I'm missing something here. Idk.
+
+Left off with a not working pointer_demo_2. Going to troubleshoot that tm.
