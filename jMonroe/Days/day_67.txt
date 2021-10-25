@@ -1,0 +1,31 @@
+Date: 10/24/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 8:47pm - 9:16pm
+Starting at: pg 245
+
+Well fuck. Could they flip the script and make me like c again all in a few
+pages. I'd always heard you could manage memory directly with c but hadn't
+seen anything resembling that yet. Now we learn about the heap and dynamic
+memory allocation on the heap. Fucking cool.
+
+Ok, malloc() -- memory allocate, and free() -- deallocates memory.
+
+To use malloc you need to have a pointer that points to the first heap
+value. Something like:
+int * temps;
+Then allocate 10 integers on the heap like this:
+temps = (int *) malloc(10 * sizeof(int)); 
+
+That's some wonky shit as usual. 
+So, we want to allocate enough bytes for 10 integers, we don't know the size
+of an integer since it varies per system so we use sizeof to get the number
+of bytes and then multiply that by ten.
+
+malloc always performs two steps (if there's enough heap memory):
+1. Allocates the number of bytes you request & makes sure no other program
+can overwrite the allocated memory until your program frees it.
+2. Assigns your pointer to the first allocated value.
+
+
+This will take some getting used to. Not sure yet how to make use of this
+but it's interesting stuff.
