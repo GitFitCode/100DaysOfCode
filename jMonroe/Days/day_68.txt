@@ -1,0 +1,49 @@
+Date: 10/25/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 5:28pm - 5:54pm
+Starting at: pg 248
+
+Oh yeah, took me a sec to remember where I'd left off. Fucking memory
+allocation.
+So, once you've used malloc to allocate contiguous bytes in memory they can
+then be referenced just like values in an array.
+
+Omg, I'd forgotten how stupid the type casting syntax is in c.
+Wtf is this: (int)var_name;
+That's so stupid. How are you supposed to, idk, who cares, that's how it is.
+
+So I typed it out in day 67 but here's how you allocate memory with malloc:
+int * temps;
+temps = (int *) malloc(10 * sizeof(int));
+
+I explained the part after malloc( in day 67 but didn't cover:
+(int *)
+
+^^ That atrocity is a pointer typecast. An int pointer typecast in this case.
+Ok, malloc always returns a character pointer. So you have to typecast it
+to the data type you actually want.
+
+
+
+Finally somthing in c that makes sense and is simple.
+If malloc fails to allocate the memory its pointer variable points to a null
+value, 0.
+
+So to test if there's not enough memory for what you tried to allocate just
+use:
+temps = (int *) malloc(10 * sizeof(int));
+if (temps == 0)
+{
+  printf("Not enough memory");
+}
+
+Hooray. So easy.
+
+Oh my fuck! An easy to remember function name!
+Free allocated memory with:
+free()...
+
+If you defined the pointer temps like I mentioned above you'd just say:
+free(temps);
+
+
