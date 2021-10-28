@@ -1,0 +1,11 @@
+Date: 10/28/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 1:31pm - 2:22pm
+Starting at: pg 257
+
+Totally forgot I finished the chapter on memory allocation.
+On to structures. Are structures basically classes? C doesn't have classes
+right? It's not object oriented. Fuck if I know.
+
+Ok, well structs aren't so bad but scanf is fucking me.
+Going to troubleshoot that some more tomorrow but kind of done with it for now.
