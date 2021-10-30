@@ -1,0 +1,19 @@
+Date: 10/30/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 1:47pm - 2:09pm
+Starting at: pg 265
+
+Ok this summary is helpful for describing structures:
+A structure is an aggregate variable data type which can hold several values
+of different data types.
+
+I'll probably forget, but -> that is the structure pointer operator.
+It is necessary to access individual data members within a struct.
+
+
+
+Next chapter, managing files. Hooray.
+fopen() to open a file. Included in stdio.h.
+
+Ok, before opening a file we have to define a file pointer:
+FILE * file_pointer;
