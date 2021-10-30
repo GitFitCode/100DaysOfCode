@@ -1,0 +1,17 @@
+Date: 10/29/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 5:11pm - 5:43pm
+Starting at: pg 264
+
+Huh, I can't figure out the scanf thing. They put a dollar sign in the scanf
+string when it's called but that causes the program to skip the next scanf
+call for me. It works fine without that so that's how it's going to be.
+
+Ok, fuck, I figured it out. If you include the dollar sign in the scanf call
+it's assumed that the user will type in a dollar sign there. Which I was not
+doing, which then messes up the next scanf call. God I knew it was simple.
+
+I'm getting this down. To some extent. I still kind of hate this programming
+language.
+What's up with the weird little things like & to save to a pointer variable
+and then -> to save to the heap. Whatever, get used to it.
