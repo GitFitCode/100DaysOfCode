@@ -16,4 +16,4 @@ Next chapter, managing files. Hooray.
 fopen() to open a file. Included in stdio.h.
 
 Ok, before opening a file we have to define a file pointer:
-FILE * file_pointer;
+FILE *file_pointer;

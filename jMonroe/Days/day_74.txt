@@ -1,0 +1,26 @@
+Date: 10/31/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 9:06pm - 9:50pm
+Starting at: pg 269
+
+So, I mentioned in the last note but will type it out here as well to help
+me remember:
+
+To open a file use:
+fopen() -- which is included in stdio.h.
+  -- also has read, write, and append modes like python.
+
+Write to files using:
+fprintf() -- takes a couple of arguments:
+  -- the file pointer and a string to enter into the file.
+
+And remember to close files with:
+fclose() -- which takes a file pointer as an argument.
+
+First step is to define a file pointer:
+FILE *file_pointer;
+
+
+
+
+This was a productive and fun session. I like that things are getting a little more complex now.
