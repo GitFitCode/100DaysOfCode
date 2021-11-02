@@ -1,0 +1,12 @@
+Date: 11/1/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 7:39pm - 8:00pm
+Starting at: pg 272
+
+Ok, cool. Learned how to open, write to, and close files. Turns out that's
+actually quite easy in c. Compared to other things, like defining a fucking
+array.
+
+Well this is a short one. I did write a short program to open and add to an
+existing file but am off to have a campfire so hasta manana. Idk how to do a
+tilde n here. 
