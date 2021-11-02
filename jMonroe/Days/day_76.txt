@@ -1,0 +1,24 @@
+Date: 11/2/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 3:32pm - 4:03pm
+Starting at: pg 277
+
+Huh, ok. I'm a little confused again. Just starting to learn about random
+files. Apparently when you open a sequential file you can only read it but
+when you open a random file you can read from anywhere in it and write to
+anywhere in it.
+
+To read or write a file randomly use:
+"r+", "w+", or "a+"
+
+And to move around an opened file use:
+fseek(filePtr, longVal, origin);
+-- filePtr - is the pointer used in fopen().
+-- longVal - specifies the number of bytes to skip forward or backward in the file (a longint variable either positive or negative)
+-- origin - will always be one of these: (all defined in stdio.h)
+  -- SEEK_SET - beginning of file
+  -- SEEK_CUR - current position in file
+  -- SEEK_END - end of file
+
+If you position the file pointer over existing data new data written there
+will replace the existing data.
