@@ -1,0 +1,11 @@
+Date: 11/3/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 5:37pm - 6:00pm
+Starting at: pg 280
+
+Ok, right. Random files. Going to write a program that opens a file
+in random access mode writes A to Z to the file and then rereads those
+letters backward.
+
+It works. I'm a little confused by the fseek() function but it should become
+clearer once I use it a little more.
