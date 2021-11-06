@@ -1,0 +1,14 @@
+Date: 11/5/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 9:43pm - 10:07pm
+Starting at: pg 281
+
+Ok, more random file goodies. Still interesting stuff. I need to review the
+program I just wrote to fully understand one part of it.
+letter = fgetc(fptr);
+
+We must have read about it but I don't rememer fgetc at all.
+Interesting the fptr doesn't have to be incremented or anything.
+fgetc apparently forwards it to the next character pointer.
+
+Going to look that up tomorrow.
