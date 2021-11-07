@@ -1,0 +1,16 @@
+Date: 11/7/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 1:35pm -
+Starting at: pg 283
+
+Whoops! I got wrapped up in my cyber competition and forgot to do a couple
+days of coding. On top of that I mixed up my day labeling so it just looks
+like I continued straight through even though there's a couple of missing
+days in there. I'm going to continue chronologically as is.
+
+
+
+Good news. The random file access is making more sense. fseek and the other
+file manipulation functions are working for me to some extent.
+
+Then on to functions. Hooray!
