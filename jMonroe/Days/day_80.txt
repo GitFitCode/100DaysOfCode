@@ -1,0 +1,20 @@
+Date: 11/8/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 4:45pm - 5:19pm
+Starting at: pg 287
+
+Good news. I think I figured out what to do after finishing this book.
+There are some certifications I found specifically for python programming
+and c programming. Since I've been focused on C programming this whole time
+I think I'll start with that one. They sound like they're fairly entry level
+but should give me some continued focus as I brush up on topics to ensure
+testing success.
+
+Wow. Good thing I found those certs too. Looks like I'm almost done with
+this book. Still a little ways to go but pg 293 of 352 is getting there.
+
+
+
+
+Ok, good stuff today. Learning about passing variables between functions
+which is both excessively complex and totally simple.
