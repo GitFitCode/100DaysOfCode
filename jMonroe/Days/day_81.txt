@@ -1,0 +1,22 @@
+Date: 11/9/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 6:05pm - 6:28pm
+Starting at: pg 303
+
+Interesting to note: you can pass multiple arguments to functions but can return
+only one. I'm assuming that includes an array of pointers or whatever though.
+
+Also good to note. Main can't return void.
+
+Ok, ***function prototyping*** makes sense now. I was wondering why they were seemingly
+wasting their time on that.
+
+functions that return int don't really need to be prototyped but you should
+anyway.
+For functions that return anything other than int if they are prototyped c checks
+to make sure you're not passing in a variable of the wrong type.
+
+If you don't prototype your functions passing a float to a function expecting
+a char will result in c attempting to conver that float to a char.
+
+Depening on on the conversion that occurs it may not end well.
