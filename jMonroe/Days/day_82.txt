@@ -1,0 +1,48 @@
+Date: 11/10/2021
+Focus: C Programming Abs Beginner Guide (book)
+Time: 5:19pm -
+Starting at: pg 310
+
+Wow ok. That turned out to be the end of the actual content in that book.
+Kind of took me by surprise!
+
+There's one long program they show that I could copy down but I don't really
+want to type enough just to copy out someone else's nonsense program.
+
+
+
+I know I said c certification next but I had an idea today while doing a
+school assignment that I want to put a little time into.
+
+The course is wilderness survival and the assignment was to plot bearings
+on our compass, take a certain number of steps, and ultimately report on
+where we ended up.
+
+I was clear from the bearings that we would be ending up back where we
+started.
+
+
+My thought was that I could write a program that would generate series of
+compass headings and a number of steps to take for each. It would then
+calculate the end distance from the students start point.
+
+This way the students would have randomized directions and the assignment
+could have them turn to face their starting point, set a compass bearing 
+for it, and then count the paces back to it.
+
+They would submit that final heading & number of steps as the answer
+to each series of coordinates. 
+
+
+
+It would measure distances using integer math in paces so that it should
+work for anyone.
+
+I think I could essentially do it with x and y coordinates.
+Generate the random coordinate pairs and calculate the distance and angle
+to get from one pair of points to another and there we go.
+
+That shouldn't be too crazy.
+I'll start the planning for it tomorrow.
+I think I can write it in c. It seems like a good chance to try out my new
+skills.
