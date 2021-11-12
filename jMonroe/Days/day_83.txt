@@ -1,0 +1,48 @@
+Date: 11/11/2021
+Focus: HPE285OL Homework Personal Project
+Time: 5:02pm - 5:39pm
+
+Ok this feels weird not to have a book to start working on.
+But I'm excited for this project. 
+
+I think I'll write it in C and then offer to translate it if the teacher
+happens to be interested in that.
+
+I'm still not sure exactly what this will entail so let's try to flesh it
+out a little more.
+
+
+Let's say it will generate 3 to 5 pairs of bearings and steps to take.
+So we'll generate a random number to decide how many and then use that
+number to instantiate an array of that length.
+
+It'll be an array of arrays. The outer array is 3 to 5 elements and each
+inner array will be 4 elements. The coordinate pair, the number of paces,
+and the bearing.
+
+Ok, decision time. There are a couple of ways I could go about generating
+the coordinates and whatnot.
+I could generate a coordinate pair and then calculate the distance in paces
+between it & the previous one.
+Or
+I could generate a number of paces and bearing and then figure out the new
+coordinates from there.
+
+I think generating the coordinates will be the way to go. Each coordinate
+pair will be a number of paces on an x y grid anyway so figuring out the
+distance between them will be trivial. I'm not quite sure how it will go
+finding the bearing but I don't think it will be too bad.
+
+Probably find the distance between the coordinate points then solve the
+triangle to figure out the angle to go from one to another. I might have to
+draw that out to understand it.
+
+So let's start with a coordinate generating function.
+
+
+
+
+Ok, minimal progress but it's something. It's remarkable how little I
+remember after going through that book. I so much prefer working on projects
+for learning. Maybe should have taken the project approach from the start.
+But here we are!
