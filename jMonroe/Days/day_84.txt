@@ -1,0 +1,10 @@
+Date: 11/13/2021
+Focus: HPE285OL Homework Personal Project
+Time: 12:38pm - 1:25pm
+
+Ok, not a lot of actual programming done today. I had to draw some pretty
+pictures to get an idea of how I'd turn degrees into compass bearings.
+I think I figured that out but c is just being a finicky pain in the ass
+as I try to get asin() working.
+
+Will come back to that tm.
