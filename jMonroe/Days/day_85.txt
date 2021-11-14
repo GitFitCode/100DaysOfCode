@@ -1,0 +1,19 @@
+Date: 10/14/2021
+Focus: HPE285OL Homework Personal Project
+Time: 11:55am - 2:19pm
+
+Ok, lots of progress. The program is mostly functional but will still need some
+tweaking.
+
+The first test didn't take me back to my start point which is confounding.
+I'm not yet sure why that is but will try to get to the bottom of it tomorrow.
+
+I think it also needs the ability to generate negative numbers. Otherwise you
+can only go east and north from the starting point.
+
+But it's getting there. Maybe I'll start tracking it with this repo as well.
+We'll see. I don't expect it to actually be used by the teacher but hey it's an
+interesting project nevertheless.
+
+It has forced me to think about trigonometry, radians, and degrees for the first
+time in a long time!
