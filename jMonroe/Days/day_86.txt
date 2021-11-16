@@ -1,0 +1,46 @@
+Date: 11/15/2021
+Focus: HPE285OL Homework Personal Project
+Time: 4:20pm - 4:46pm
+
+holy crap. I just realized I put 10 for the month on day 86. How long have
+I been putting the wrong date?!?
+
+
+Ok for my project I need to create a couple of test cases so that I can
+verify my program is working as intended without having to do the math for
+random coordinates every time.
+
+I already have test data that will show bearings heading east, north, west,
+and south. Now I need test data that will give me bearings in between those.
+
+Oh yeah! I need to be able to generate negative coordinates as well. Let's
+actually start with that since it should be a couple changed lines and then
+do the test data.
+
+Ok, yes. 5 minutes later and now I'm generating a range of coordinates from
+-10 to 10. This way there's a max distance of twenty paces a student may
+have to take between coordinate pairs.
+
+
+Excellent. 5 More minutes and the test data is complete. It's just an array
+of arrays and is only 4 items long. Nothing major.
+But it seems to be outputting the correct bearings.
+I'm going to run outside to test it.
+
+
+Ok. Yes. The test data works as expected.
+So, next steps. I need to generate several sets of random data and try them
+out to see if everything is working as expected all the way through.
+
+Then I'll need to pretty up the output and write it out to files.
+The first several coordinate sets will go to the student file which will
+be a simple document that shows a series made up of a number of steps to
+take and the bearing to follow as well as a space to answer the number of
+steps and bearing required to get back to the start point.
+
+The other file will be for the teacher which will contain the computed
+number of steps and bearing required to return to each start point allowing
+the professor to compare the student's findings with those of the computer.
+
+
+That's all for today. Time to go rock climbing and get out for a night hike!
